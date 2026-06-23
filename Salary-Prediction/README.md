@@ -1,7 +1,10 @@
 # Salary Prediction using Linear Regression
 
-## Overview
-This project predicts employee salaries based on years of experience using Linear Regression.
+## Author
+Niyati Dhar
+
+## Objective
+To predict employee salary based on years of experience using Linear Regression.
 
 ## Technologies Used
 - Python
@@ -10,14 +13,6 @@ This project predicts employee salaries based on years of experience using Linea
 - Matplotlib
 
 ## Features
-- Train a Linear Regression model
-- Predict salary based on experience
-- Visualize the regression line
-
-## How to Run
-
-1. Install dependencies:
-   pip install -r requirements.txt
-
-2. Run:
-   python salary_prediction.py
+- Salary prediction
+- Data visualization
+- Linear Regression model
